@@ -10,7 +10,6 @@ Then add a `<script>` to your index.html:
 `<script src="/bower_components/grid-bootstrap/grid-bootstrap.css"></script>`
 
 ##Includes
--Bootstrap grid classes: columns, offsets, push and pull classes.
--Bootstrap 
--Standard Bootstrap responsive utility classes: .visible-*, .hidden-*
--Clearfix class, * {box-sizing:border-box} declaration, pull-right, pull-left.
+`Bootstrap grid : cols, offsets, push and pull classes.`
+`Standard Bootstrap responsive utility classes: .visible-*, .hidden-*`
+`Clearfix, pull-right, and pull-left.`
