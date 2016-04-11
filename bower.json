@@ -1,8 +1,8 @@
 {
-  "name": "bootsrap-grid",
-  "homepage": "https://github.com/wintersummermint/bootstrap-grid",
+  "name": "grid-bootstrap",
+  "homepage": "https://github.com/wintersummermint/grid-bootstrap",
   "description": "A lightweight Bootstrap's grid and responsive utility classes for free styling.",
-  "main": "bootstrap-grid.css",
+  "main": "grid-bootstrap.css",
   "moduleType": [],
   "keywords": [
     "bootstrap",
